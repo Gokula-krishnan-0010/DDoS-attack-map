@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+node_modules/
+dist/
+backend/data/*.mmdb
+backend/data/*.tar.gz
+.pytest_cache/
+.coverage
+EOF
